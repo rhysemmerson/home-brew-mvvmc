@@ -1,0 +1,17 @@
+{
+    "name": "start-daemons/mvc-sample-app",
+    "description": "Just another homebrew MVC sample app",
+    "authors": [
+        {
+            "name": "Rhys Emmerson",
+            "email": "rhys@almostanything.com.au"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.4.3",
+        "apache/log4php": "2.3.0",
+        "cakephp/utility": "dev-master",
+        "cakephp/collection": "dev-master",
+        "symfony/event-dispatcher": "2.5.*"
+    }
+}
